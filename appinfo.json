@@ -10,6 +10,13 @@
     "resources": {
         "media": [
             {
+                "characterRegex": "[\uf10b]",
+                "file": "fonts/fontawesome-webfont.ttf",
+                "name": "SYMBOLS_50",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
                 "file": "images/io.png",
                 "name": "IMAGE_IO",
                 "targetPlatforms": null,
@@ -44,7 +51,7 @@
         "chalk"
     ],
     "uuid": "564f9b82-5a03-494c-8bf1-65e4eb9a5306",
-    "versionLabel": "1.1",
+    "versionLabel": "1.4",
     "watchapp": {
         "watchface": true
     }
